@@ -3,5 +3,5 @@
 // Do not put your GA4 measurement ID (G-...) here; configure GA4 inside GTM.
 // Public tracking IDs are not secrets. Never put tokens or private keys here.
 window.LYSANDER_CONFIG = {
-  gtmId: "",
+  gtmId: "GTM-MGR5T3RZ",
 };
